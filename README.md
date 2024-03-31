@@ -59,6 +59,21 @@ So only NOW you can actually do:
 
 `nano lgsm/config-lgsm/arma3server/common.cfg`
 
+My `common.cfg` file looks like this:
+```
+##################################
+######## Common Settings #########
+##################################
+# PLACE GLOBAL SETTINGS HERE
+## These settings will apply to all instances.
+steamuser="mySteamLogin"
+steampass='mySteamPassword'
+stats="on"
+
+startparameters="-ip=${ip} -port=${port} -cfg=${networkcfgfullpath} -config=${servercfgfullpath} -mod=${mods} -servermod=${servermods} -bepath=${bepath} -loadmissiontomemory -cpuCount=4 -enableHT"
+```
+Obviously you're supposed to replace `mySteamLogin` and `mySteamPassword` with the correct values
+
 ---
 
 Basically at the end of the LinuxGSM tutorial, you should have a "arma3server" user on your Linux machine.
