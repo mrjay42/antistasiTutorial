@@ -32,7 +32,10 @@ Also this is a MANUAL installation, I won't be using the Steam Workshop
 
 3. Third we'll make it run on your gaming computer
 
-This has been tested on Ubuntu 20.04 and Debian
+This has been tested on Ubuntu 20.04 and Debian, I do not cover any other versions of Linux but it should roughly be the same anyway
+\
+\
+\
 
 # Installing Arma 3 dedicated server on Linux
 
