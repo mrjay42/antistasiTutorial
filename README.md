@@ -153,11 +153,25 @@ Ok you have your .rar file
 
 ### Extracting
 
+#### If you have a rar file
+
 On linux to extract your rar file I invite you to install the package called `rar` (probably something akin to `sudo apt install rar`, if you type `rar`in your Linux command and you get an error message, I suggest that you simply look up on the internet "*Linux how to extract rar file*")
 
 If everything is in place then you should do
 
 `rar x @Antistasi.-.The.Mod.rar`
+
+#### if you have a zip file
+
+`unzip yourFile.zip -d @antistasi`
+
+if you don't have unzip -> `sudo apt install zip`
+
+#### if you have a 7z file
+
+`7za x yourfile.7z`
+
+if you don't have unzip -> `sudo apt install p7zip-full`
 
 ### Renaming
 
