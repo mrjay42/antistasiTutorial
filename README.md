@@ -136,7 +136,7 @@ Let's enter the directory
 
 Let's download the rar file
 
-`wget https://github.com/official-antistasi-community/A3-Antistasi/releases/download/3.1.0/@Antistasi.-.The.Mod.rar``
+`wget https://github.com/official-antistasi-community/A3-Antistasi/releases/download/3.1.0/@Antistasi.-.The.Mod.rar`
 
 So you'll have a .rar file, let's see in the next section what to do with it 
 
