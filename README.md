@@ -1,14 +1,18 @@
 # How to install Antistasi The Mod on Linux dedicated server
 
-The version of Antistasi we're talking about is this one:
+The version of Antistasi we're talking about are those ones:
 
-**Antistasi The Mod**
+**Antistasi The Mod** 
 
 - [Official Antistasi Community Edition Wiki - Antistasi Guide documentation](https://official-antistasi-community.github.io/A3-Antistasi-Docs/index.html)
 
 - [GitHub - official-antistasi-community/A3-Antistasi: Antistasi Community Version](https://github.com/official-antistasi-community/A3-Antistasi)
 
 - [Steam Workshop::Antistasi - The Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2867537125)
+
+**Antistasi PLUS**
+
+- https://github.com/igorkis-scrts/A3-Antistasi-Plus/releases/
 
 # Introduction
 
