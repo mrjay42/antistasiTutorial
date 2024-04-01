@@ -177,11 +177,14 @@ if you don't have unzip -> `sudo apt install p7zip-full`
 
 Let's rename the newly created folder into:
 
-`mv @Antistasi\ -\ The\ Mod/ @antistasi`
+
+`mv -\ The\ Mod/ @antistasi @Antistasi\`
 
 So now you should have a directory in `/home/arma3server/antistasiSource/` that is called`@antistasi`
 
 *You may wonder: why did we renamed the directory? The reason is simple, Arma 3 on Linux does not like spaces and capital letters in folder names. And now you may wonder why people knowing this would continue to release their mod with spaces and capital letter and there...I have to say that I wonder the same.*
+
+*(The name of the folder below, is based on what was available at the time of writing this tutorial, and if you're installing any other versions of Antistasi the name will be different, IN ANY CASE, the goal is to rename the extracted directory into something SIMPLE like "@antistasi" or whatever else you want, WHATEVER YOU DO, DO NOT use spaces in the directory name)*
 
 ## Installing the mod
 
