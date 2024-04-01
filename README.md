@@ -132,7 +132,7 @@ Let's create a new directory called antistasiSource:
 
 Let's enter the directory
 
-`cd antistasiSource``
+`cd antistasiSource`
 
 Let's download the rar file
 
