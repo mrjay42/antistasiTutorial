@@ -323,6 +323,8 @@ Click on "select folder"
 
 Done.
 
+It's exactly the same for any other versions of Antistasi (Antistasi Plus for instance) and of course you'll have to use the proper tool on Windows to unzip or 7zip (the best) to deal with other archive types.
+
 ## Configuring and creating your game
 
 Connect to your server using Arma 3's launcher
