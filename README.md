@@ -24,6 +24,8 @@ This tutorial assumes you'll be using LGSM to install Arma 3 server
 
 Also this is a MANUAL installation, I won't be using the Steam Workshop
 
+
+
 ## Plan
 
 1. First you need a running Arma 3 server ->
@@ -33,7 +35,7 @@ Also this is a MANUAL installation, I won't be using the Steam Workshop
 3. Third we'll make it run on your gaming computer
 
 This has been tested on Ubuntu 20.04 and Debian, I do not cover any other versions of Linux but it should roughly be the same anyway\
- \
+
 
 
 # Installing Arma 3 dedicated server on Linux
@@ -101,6 +103,10 @@ drwxrwxr-x  5 arma3server arma3server  4096 Apr 28 19:23 .steam/
 ```
 
 I removed on purpose useless files and directories from this list, but you surely will have other random stuff that is part of any modern Linux user directory (such as: `.bashrc`, etc.)
+
+
+
+
 
 # How to install Antistasi The Mod On Linux
 
