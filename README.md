@@ -140,6 +140,13 @@ Let's download the rar file
 
 So you'll have a .rar file, let's see in the next section what to do with it 
 
+### For Antistasi Plus
+
+`wget https://github.com/igorkis-scrts/A3-Antistasi-Plus/releases/download/v2.3.2/A3A-Plus.zip`
+
+Note: this link is pointing to the latest version available at the date of writing this tutorial
+
+
 ## Renaming and extracting the mod
 
 Ok you have your .rar file
