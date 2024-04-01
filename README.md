@@ -114,6 +114,10 @@ Go there: [Releases · official-antistasi-community/A3-Antistasi · GitHub](http
 
 Scroll down and you should see, for the latest release (always at the top of the page), the "Assets" section, there, there should be an archive file. At the date of writing this tutorial the latest release is available at this address: https://github.com/official-antistasi-community/A3-Antistasi/releases/download/3.1.0/@Antistasi.-.The.Mod.rar
 
+### To Download Antistasi Plus 
+
+- https://github.com/igorkis-scrts/A3-Antistasi-Plus/releases/
+
 ## How to download the mod
 
 **Starting from here, the names of the downloaded files may vary, please rely on Linux autocompletion and your own judgment to adapt the command lines written below to your own case**
